@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Jimbo-Glaunie, Chief Engineer at WCDB Albany
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Rust for personal use, React/Node for WCDBfm.com
+- 👀 I’m interested in boring and unflashy backend programming
+- 🌱 I’m currently learning Rust for personal use, React/Node for a new WCDBfm.com
 - 📫 How to reach me jamesfg513@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: There were two Napoleon emperors of France. Napoleon I is the one everyone knows, and his nephew Napoleon III
 
 <!---
 Jimbo-Glaunie/Jimbo-Glaunie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
